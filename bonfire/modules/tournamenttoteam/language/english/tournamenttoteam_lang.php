@@ -1,0 +1,32 @@
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+$lang['tournamenttoteam_manage']			= 'Manage TournamentToTeam';
+$lang['tournamenttoteam_edit']				= 'Edit';
+$lang['tournamenttoteam_true']				= 'True';
+$lang['tournamenttoteam_false']				= 'False';
+$lang['tournamenttoteam_create']			= 'Create';
+$lang['tournamenttoteam_list']				= 'List';
+$lang['tournamenttoteam_new']				= 'New';
+$lang['tournamenttoteam_back']				= 'Back';
+$lang['tournamenttoteam_matches']			= 'Matches';
+$lang['tournamenttoteam_edit_text']			= 'Edit this to suit your needs';
+$lang['tournamenttoteam_no_records']			= 'There aren\'t any tournamenttoteam in the system.';
+$lang['tournamenttoteam_create_new']			= 'Create a new TournamentToTeam.';
+$lang['tournamenttoteam_create_success']			= 'TournamentToTeam successfully created.';
+$lang['tournamenttoteam_create_failure']			= 'There was a problem creating the tournamenttoteam: ';
+$lang['tournamenttoteam_create_new_button']			= 'Create New TournamentToTeam';
+$lang['tournamenttoteam_invalid_id']			= 'Invalid TournamentToTeam ID.';
+$lang['tournamenttoteam_edit_success']			= 'TournamentToTeam successfully saved.';
+$lang['tournamenttoteam_edit_failure']			= 'There was a problem saving the tournamenttoteam: ';
+$lang['tournamenttoteam_delete_success']			= 'record(s) successfully deleted.';
+$lang['tournamenttoteam_delete_failure']			= 'We could not delete the record: ';
+$lang['tournamenttoteam_delete_error']			= 'You have not selected any records to delete.';
+$lang['tournamenttoteam_actions']			= 'Actions';
+$lang['tournamenttoteam_cancel']			= 'Cancel';
+$lang['tournamenttoteam_delete_record']			= 'Delete this TournamentToTeam';
+$lang['tournamenttoteam_delete_confirm']			= 'Are you sure you want to delete this tournamenttoteam?';
+$lang['tournamenttoteam_edit_heading']			= 'Edit TournamentToTeam';
+
+// Activities
+$lang['tournamenttoteam_act_create_record']			= 'Created record with ID';
+$lang['tournamenttoteam_act_edit_record']			= 'Updated record with ID';
+$lang['tournamenttoteam_act_delete_record']			= 'Deleted record with ID';

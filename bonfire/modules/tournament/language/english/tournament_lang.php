@@ -1,0 +1,30 @@
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+$lang['tournament_manage']			= 'Manage Tournament';
+$lang['tournament_edit']				= 'Edit';
+$lang['tournament_true']				= 'True';
+$lang['tournament_false']				= 'False';
+$lang['tournament_create']			= 'Create';
+$lang['tournament_list']				= 'List';
+$lang['tournament_new']				= 'New';
+$lang['tournament_edit_text']			= 'Edit this to suit your needs';
+$lang['tournament_no_records']			= 'There aren\'t any tournament in the system.';
+$lang['tournament_create_new']			= 'Create a new Tournament.';
+$lang['tournament_create_success']			= 'Tournament successfully created.';
+$lang['tournament_create_failure']			= 'There was a problem creating the tournament: ';
+$lang['tournament_create_new_button']			= 'Create New Tournament';
+$lang['tournament_invalid_id']			= 'Invalid Tournament ID.';
+$lang['tournament_edit_success']			= 'Tournament successfully saved.';
+$lang['tournament_edit_failure']			= 'There was a problem saving the tournament: ';
+$lang['tournament_delete_success']			= 'record(s) successfully deleted.';
+$lang['tournament_delete_failure']			= 'We could not delete the record: ';
+$lang['tournament_delete_error']			= 'You have not selected any records to delete.';
+$lang['tournament_actions']			= 'Actions';
+$lang['tournament_cancel']			= 'Cancel';
+$lang['tournament_delete_record']			= 'Delete this Tournament';
+$lang['tournament_delete_confirm']			= 'Are you sure you want to delete this tournament?';
+$lang['tournament_edit_heading']			= 'Edit Tournament';
+
+// Activities
+$lang['tournament_act_create_record']			= 'Created record with ID';
+$lang['tournament_act_edit_record']			= 'Updated record with ID';
+$lang['tournament_act_delete_record']			= 'Deleted record with ID';
